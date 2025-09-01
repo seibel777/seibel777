@@ -9,11 +9,7 @@ Sou desenvolvedor júnior com foco na criação de ferramentas e aplicativos que
 ## Skills & Technologies
 
 <p align="left">
-  <!-- Python -->
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-
+  
   <!-- React -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
@@ -29,10 +25,7 @@ Sou desenvolvedor júnior com foco na criação de ferramentas e aplicativos que
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="vite" width="40" height="40"/>
   </a>
 
-  <!-- Flutter -->
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
-  </a>
+
 
   <!-- Supabase -->
   <a href="https://supabase.io/" target="_blank" rel="noreferrer">
