@@ -58,7 +58,7 @@ Sou desenvolvedor júnior com foco na criação de ferramentas e aplicativos que
 ## Top Projects
 
 - [DashboardClima](https://github.com/seibel777/DashboardClima) - Previsão Meteorológica em Tempo Real | ⭐ 1 | Language: `Next.JS` | Forks: 0 | Issues: 0
-- [CompressorBR](https://github.com/seibel777/CompressorBR) - Previsão Meteorológica em Tempo Real | ⭐ 1 | Language: `Next.JS` | Forks: 0 | Issues: 0
+- [CompressorBR](https://github.com/seibel777/CompressorBR) - Compressor de áudio e vídeo 100% no navegador | ⭐ 1 | Language: `Next.JS` | Forks: 0 | Issues: 0
 
 
 ## GitHub Stats
