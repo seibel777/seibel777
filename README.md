@@ -1,81 +1,88 @@
-## Olá! 👋
+<!-- Profile README for seibel777 -->
+<div align="right">
 
-Sou **João Pedro Petermann Seibel**, um desenvolvedor apaixonado do **Brasil**. Sou apaixonado por tecnologia e estou sempre em busca de aprender e criar soluções inovadoras. Bem-vindo ao meu perfil do GitHub!
+[![Português (BR)](https://img.shields.io/badge/Portugu%C3%AAs-BR-blue?style=for-the-badge)](./README.pt-BR.md)
 
-## Sobre Mim
+</div>
 
-Sou desenvolvedor júnior com foco na criação de ferramentas e aplicativos que melhoram a experiência do usuário. Atualmente, estou trabalhando em vários projetos e explorando novas tecnologias para expandir meu conjunto de habilidades.
-
-## Skills & Technologies
+<h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">
-  
-  <!-- React -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  </a>
-
-  <!-- Next.js -->
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-
-  <!-- Vite -->
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="vite" width="40" height="40"/>
-  </a>
-
-
-
-  <!-- Supabase -->
-  <a href="https://supabase.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-icon.svg" alt="supabase" width="40" height="40"/>
-  </a>
-
-  <!-- Firebase -->
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-
-  <!-- SQL (MySQL) -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  </a>
-
-  <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-
-  <!-- Node.js -->
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-
+  My name is <b>João Pedro</b> and I'm a <b>full-stack developer</b> (React/Next.js + Supabase), from <b>Brazil</b> 🇧🇷
 </p>
 
+<h2 align="left">About me</h2>
 
-## Top Projects
+<p align="left">
+✨ Creating bugs since high school<br>
+📚 I'm currently learning <b>Go</b> and leveling up in <b>security</b> + <b>scalable SaaS</b> architecture<br>
+🎯 Goals: ship products, reduce churn, and build multi-tenant platforms that don’t break at scale<br>
+🎲 Fun fact: I came from competitive fishing and ended up building apps around it 😅
+</p>
 
-- [DashboardClima](https://github.com/seibel777/DashboardClima) - Previsão Meteorológica em Tempo Real | ⭐ 1 | Language: `Next.JS` | Forks: 0 | Issues: 0
-- [CompressorBR](https://github.com/seibel777/CompressorBR) - Compressor de áudio e vídeo 100% no navegador | ⭐ 1 | Language: `Next.JS` | Forks: 0 | Issues: 0
+<h2 align="left">Main projects</h2>
 
+<ul>
+  <li><b>Psicofly</b> — SaaS for psychologists (multi-tenant, dashboards, automations). <i>React/Next.js + Supabase</i> — <a href="https://psicofly.com.br">psicofly.com.br</a></li>
+  <li><b>Tien</b> — platform for service quotes/management. <i>React + Tailwind + Supabase + PostgreSQL</i> — <a href="https://tien.app">tien.app</a></li>
+  <li><b>Nextfy</b> — Web2App for e-commerces + push notifications. <i>React + Supabase</i> — <a href="https://nextfy.co">nextfy.co</a></li>
+  <li><b>Raioweb</b> — digital solutions (websites, paid traffic, design, automation). — <a href="https://raioweb.com.br">raioweb.com.br</a></li>
+  <li><b>Anidec</b> — anime collectibles e-commerce brand. — <a href="https://anidec.com.br">anidec.com.br</a></li>
+</ul>
 
-## GitHub Stats
+<h2 align="left">I code with</h2>
 
-🌟 **Public Repositories:** 1
+<div align="left">
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" />
+  <img width="12" />
 
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
+  <img width="12" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seibel777&show_icons=true&theme=radical)
+  <!-- Backend / Data -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img width="12" />
 
-## ASCII Art
+  <!-- Tooling -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+</div>
 
-```
-   _____  ______ _____  ____   _____  _      
-  / ____||  ____| ____||  _ \ | ____|| |     
- | (___  | |__  | |__  | |_) || |__  | |     
-  \___ \ |  __| |  __| |  _ < |  __| | |     
-  ____) || |____| |____| |_) || |____| |____ 
- |_____/ |______|______|____/ |______|______|
-                                                                
-```
+<h2 align="left">GitHub stats</h2>
+
+<div align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=seibel777&show_icons=true&hide_title=true" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seibel777&layout=compact" alt="Top languages" />
+</div>
+
+<h2 align="left">Contact</h2>
+
+<p align="left">
+  📩 Email: <a href="mailto:hi@seibeldev.com.br">hi@seibeldev.com.br</a><br>
+  🌎 Portfolio: <a href="https://seibeldev.com.br">seibeldev.com.br</a><br>
+  🔗 Projects:
+  <a href="https://psicofly.com.br">psicofly.com.br</a> •
+  <a href="https://tien.app">tien.app</a> •
+  <a href="https://nextfy.co">nextfy.co</a> •
+  <a href="https://raioweb.com.br">raioweb.com.br</a> •
+  <a href="https://anidec.com.br">anidec.com.br</a>
+</p>
