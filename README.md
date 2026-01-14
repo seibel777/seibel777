@@ -67,12 +67,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 </div>
 
-<h2 align="left">GitHub stats</h2>
-
-<div align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=seibel777&show_icons=true&hide_title=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seibel777&layout=compact" alt="Top languages" />
-</div>
 
 <h2 align="left">Contact</h2>
 
