@@ -24,7 +24,7 @@
 
 <ul>
   <li><b>Psicofly</b> — SaaS for psychologists (multi-tenant, dashboards, automations). <i>React/Next.js + Supabase</i> — <a href="https://psicofly.com.br">psicofly.com.br</a></li>
-  <li><b>Tien.app</b> — <b>local &amp; 100% passive</b> security testing tool for <b>repo scanning</b> and <b>URL analysis</b> — <a href="https://tien.app">tien.app</a></li>
+  <li><b>Tien.app</b> — <b>local &amp; 100% passive</b> security testing tool for <b>repo scanning</b> and <b>URL analysis</b> — <a href="https://tien.app">tienapp.com</a></li>
   <li><b>Nextfy</b> — Web2App for e-commerces + push notifications. <i>React + Supabase</i> — <a href="https://nextfy.co">nextfy.co</a></li>
   <li><b>Raioweb</b> — digital solutions (websites, paid traffic, design, automation). — <a href="https://raioweb.com.br">raioweb.com.br</a></li>
   <li><b>Anidec</b> — anime collectibles e-commerce brand. — <a href="https://anidec.com.br">anidec.com.br</a></li>
