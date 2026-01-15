@@ -24,7 +24,7 @@
 
 <ul>
   <li><b>Psicofly</b> — SaaS para psicólogas (multi-tenant, dashboards, automações). <i>React/Next.js + Supabase</i> — <a href="https://psicofly.com.br">psicofly.com.br</a></li>
-  <li><b>Tien.app</b> — ferramenta <b>local e 100% passiva</b> para apoiar testes de segurança com <b>scan de repositórios</b> e <b>análise de URLs</b> - <a href="https://tien.app">tien.app</a></li>
+  <li><b>Tien.app</b> — ferramenta <b>local e 100% passiva</b> para apoiar testes de segurança com <b>scan de repositórios</b> e <b>análise de URLs</b> - <a href="https://tienapp.com">tien.app</a></li>
   <li><b>Nextfy</b> — Web2App para e-commerces + notificações push. <i>React + Supabase</i> — <a href="https://nextfy.co">nextfy.co</a></li>
   <li><b>Raioweb</b> — soluções digitais (sites, tráfego pago, design, automação). — <a href="https://raioweb.com.br">raioweb.com.br</a></li>
   <li><b>Anidec</b> — e-commerce de colecionáveis/anime. — <a href="https://anidec.com.br">anidec.com.br</a></li>
@@ -75,7 +75,7 @@
   🌎 Portfólio: <a href="https://seibeldev.com.br">seibeldev.com.br</a><br>
   🔗 Projetos:
   <a href="https://psicofly.com.br">psicofly.com.br</a> •
-  <a href="https://tien.app">tien.app</a> •
+  <a href="https://tienapp.com">tien.app</a> •
   <a href="https://nextfy.co">nextfy.co</a> •
   <a href="https://raioweb.com.br">raioweb.com.br</a> •
   <a href="https://anidec.com.br">anidec.com.br</a>
