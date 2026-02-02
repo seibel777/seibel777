@@ -75,7 +75,7 @@
   🌎 Portfólio: <a href="https://seibeldev.com.br">seibeldev.com.br</a><br>
   🔗 Projetos:
   <a href="https://psicofly.com.br">psicofly.com.br</a> •
-  <a href="https://tienapp.com">tien.app</a> •
+  <a href="https://tienapp.com">tienapp.com</a> •
   <a href="https://nextfy.co">nextfy.co</a> •
   <a href="https://raioweb.com.br">raioweb.com.br</a> •
   <a href="https://anidec.com.br">anidec.com.br</a>
